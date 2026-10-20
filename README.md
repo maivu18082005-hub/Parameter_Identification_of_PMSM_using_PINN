@@ -1,0 +1,2 @@
+# Parameter_Identification_of_PMSM_using_PINN
+Parameter_Identification_of_PMSM_using_PINN
